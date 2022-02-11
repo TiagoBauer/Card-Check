@@ -1,0 +1,16 @@
+C:\Users\tiago\source\repos\CardVerify\CardVerify\bin\Debug\net5.0\CardVerify.exe
+C:\Users\tiago\source\repos\CardVerify\CardVerify\bin\Debug\net5.0\CardVerify.deps.json
+C:\Users\tiago\source\repos\CardVerify\CardVerify\bin\Debug\net5.0\CardVerify.runtimeconfig.json
+C:\Users\tiago\source\repos\CardVerify\CardVerify\bin\Debug\net5.0\CardVerify.runtimeconfig.dev.json
+C:\Users\tiago\source\repos\CardVerify\CardVerify\bin\Debug\net5.0\CardVerify.dll
+C:\Users\tiago\source\repos\CardVerify\CardVerify\bin\Debug\net5.0\ref\CardVerify.dll
+C:\Users\tiago\source\repos\CardVerify\CardVerify\bin\Debug\net5.0\CardVerify.pdb
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.AssemblyInfo.cs
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.dll
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\ref\CardVerify.dll
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.pdb
+C:\Users\tiago\source\repos\CardVerify\CardVerify\obj\Debug\net5.0\CardVerify.genruntimeconfig.cache
